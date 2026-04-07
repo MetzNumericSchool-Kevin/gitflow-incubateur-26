@@ -12,3 +12,9 @@
 ### Fixed
 
 - Amélioration du slogan
+
+## [1.0.1] - 2026-04-07
+
+### Fixed
+
+- Changement du prix de la lune
