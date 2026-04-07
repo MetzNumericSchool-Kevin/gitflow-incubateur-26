@@ -6,7 +6,6 @@ Rendre les voyages spatiaux accessibles à tous les terriens.
 
 ## Valeurs
 
-- Sécurité avant tout
 - Exploration responsable
 - Émerveillement garanti
 
