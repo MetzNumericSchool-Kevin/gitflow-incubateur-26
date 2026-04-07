@@ -2,4 +2,4 @@
 
 L'agence de voyages qui vous emmène vers l'infini et au-delà.
 
-Version: dev
+Version: 1.0.0
