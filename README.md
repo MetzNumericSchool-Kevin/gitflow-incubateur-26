@@ -1,5 +1,5 @@
 # 🚀 GalaxyTrip — Voyages Intergalactiques
 
-L'agence de voyages qui vous emmène au-delà des étoiles.
+L'agence de voyages qui vous propulse vers les étoiles.
 
 Version: dev
